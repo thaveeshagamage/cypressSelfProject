@@ -1,0 +1,20 @@
+{
+  "name": "cypressselfproject",
+  "version": "1.0.0",
+  "description": "Self learned and scripted project using cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thaveeshagamage/cypressSelfProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thaveeshagamage/cypressSelfProject/issues"
+  },
+  "homepage": "https://github.com/thaveeshagamage/cypressSelfProject#readme"
+}
