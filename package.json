@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/thaveeshagamage/cypressSelfProject/issues"
   },
-  "homepage": "https://github.com/thaveeshagamage/cypressSelfProject#readme"
+  "homepage": "https://github.com/thaveeshagamage/cypressSelfProject#readme",
+  "dependencies": {
+    "cypress": "^14.1.0"
+  }
 }
